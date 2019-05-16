@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!-- Used into configureAndShowViewPager method of MainActivity.java -->
+    <array name="colorArray">
+        <item >#FFEB3B</item>
+        <item >#FF9800</item>
+        <item >#F44336</item>
+    </array>
+
+</resources>

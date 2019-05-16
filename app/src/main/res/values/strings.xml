@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">"MyViewPager"</string>
+
+    <!-- fragment_[news | parameter | profile]_page.xml -->
+    <string name="text_to_text_view">"Hello"</string>
+
+    <!-- NewsPageFragment.java -->
+    <string name="news">"News"</string>
+
+    <!-- ParameterPageFragment.java -->
+    <string name="parameter">"Parameter"</string>
+
+    <!-- ProfilePageFragment.java -->
+    <string name="profile">"Profile"</string>
+
+</resources>
